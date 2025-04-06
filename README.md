@@ -11,32 +11,32 @@
 
 | Componenta | Link |
 |------------|------|
+| SAMACSYS_PARTS_USB4110-GF-A | [https://componentsearchengine.com/part-view/USB4110-GF-A/GCT%20(GLOBAL%20CONNECTOR%20TECHNOLOGY)](https://componentsearchengine.com/part-view/USB4110-GF-A/GCT%20(GLOBAL%20CONNECTOR%20TECHNOLOGY)) |
+| SI1308EDL-T1-GE3 | [https://componentsearchengine.com/part-view/SI1308EDL-T1-GE3/Vishay](https://componentsearchengine.com/part-view/SI1308EDL-T1-GE3/Vishay) |
+| SJ | [https://grabcad.com/library/solder-jumpers-1](https://grabcad.com/library/solder-jumpers-1) |
+| USBLC6-2SC6Y | [https://www.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part/?ref=eda](https://www.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part/?ref=eda) |
+| W25Q512JVEIQ | [https://www.snapeda.com/parts/W25Q512JVEIQ/Winbond+Electronics/view-part/?ref=eda](https://www.snapeda.com/parts/W25Q512JVEIQ/Winbond+Electronics/view-part/?ref=eda) |
 | ESP32_WROVER_EAGLE-LTSPICE_RR0402 | [https://www.snapeda.com/parts/RC0402FR-07226RL/Yageo/view-part/](https://www.snapeda.com/parts/RC0402FR-07226RL/Yageo/view-part/) |
-| QWIIC_CONNECTORJS-1MM | [https://www.snapeda.com/parts/PRT-14417/SparkFun/view-part/](https://www.snapeda.com/parts/PRT-14417/SparkFun/view-part/) |
-| BUTTON_CUSYOMV1 | [https://industry.panasonic.com/global/en/downloads?tab=cad&small_g_cd=203&part_no=EVQPUJ02K&q=RVZRUFVKMDJLJTdDMTMlN0MyMDMlN0MzNDU5JTdDMSU3QyU3QyU3Q2ZhbHNl](https://industry.panasonic.com/global/en/downloads?tab=cad&small_g_cd=203&part_no=EVQPUJ02K&q=RVZRUFVKMDJLJTdDMTMlN0MyMDMlN0MzNDU5JTdDMSU3QyU3QyU3Q2ZhbHNl) |
-| ESP32_WROVER_EAGLE-LTSPICE_CC0402 | [https://componentsearchengine.com/part-view/CC0402MRX5R5BB106/YAGEO](https://componentsearchengine.com/part-view/CC0402MRX5R5BB106/YAGEO) |
-| CPH3225A | [https://www.snapeda.com/parts/CPH3225A/Seiko+Instruments/view-part/?ref=eda](https://www.snapeda.com/parts/CPH3225A/Seiko+Instruments/view-part/?ref=eda) |
-| ADAFRUIT_LEDCHIP-LED0603 | [https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603) |
-| 112A-TAAR-R03_ATTEND | [https://store.comet.bg/en/Catalogue/Product/43497/](https://store.comet.bg/en/Catalogue/Product/43497/) |
-| 744043680IND_4828-WE-TPC_WRE | [https://www.digikey.sg/en/models/1638515](https://www.digikey.sg/en/models/1638515) |
-| BD5229G-TR | [https://componentsearchengine.com/part-view/BD5229G-TR/ROHM%20Semiconductor](https://componentsearchengine.com/part-view/BD5229G-TR/ROHM%20Semiconductor) |
-| DS3231SN | [https://www.snapeda.com/parts/DS3231SN%23/Analog+Devices/view-part/?ref=eda](https://www.snapeda.com/parts/DS3231SN%23/Analog+Devices/view-part/?ref=eda) |
-| ESP32-C6-WROOM-1-N8 | [https://www.snapeda.com/parts/ESP32-C6-WROOM-1-N8/Espressif+Systems/view-part/?ref=eda](https://www.snapeda.com/parts/ESP32-C6-WROOM-1-N8/Espressif+Systems/view-part/?ref=eda) |
-| MCP73831 | [https://www.digikey.com/en/models/1874108](https://www.digikey.com/en/models/1874108) |
-| ESP32_WROVER_BME680_BME680 | [https://www.snapeda.com/parts/BME680/Bosch/view-part/?welcome=home](https://www.snapeda.com/parts/BME680/Bosch/view-part/?welcome=home) |
-| ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH-DMG2305UX-7 | [https://componentsearchengine.com/part-view/DMG2305UX-7/Diodes%20Incorporated](https://componentsearchengine.com/part-view/DMG2305UX-7/Diodes%20Incorporated) |
 | ESP32C6_VARISTORCN1812 | [https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B72520T0350K062?qs=dEfas%2FXlABIszF52uu7vrg%3D%3D](https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B72520T0350K062?qs=dEfas%2FXlABIszF52uu7vrg%3D%3D) |
 | FH34SRJ-24S-0.5SH_99_ | [https://componentsearchengine.com/part-view/XC6220A331MR-G/Torex](https://componentsearchengine.com/part-view/XC6220A331MR-G/Torex) |
 | MAX17048G+T10 | [https://www.snapeda.com/parts/MAX17048G+T10/Analog+Devices/view-part/?ref=eda](https://www.snapeda.com/parts/MAX17048G+T10/Analog+Devices/view-part/?ref=eda) |
 | MBR0530 | [https://ro.mouser.com/ProductDetail/KYOCERA-AVX/SD0805S020S1R0?qs=jCA%252BPfw4LHbpkAoSnwrdjw%3D%3D](https://ro.mouser.com/ProductDetail/KYOCERA-AVX/SD0805S020S1R0?qs=jCA%252BPfw4LHbpkAoSnwrdjw%3D%3D) |
 | PGB1010603MR | [https://www.snapeda.com/parts/PGB1010603MR/Littelfuse/view-part/?ref=eda](https://www.snapeda.com/parts/PGB1010603MR/Littelfuse/view-part/?ref=eda) |
 | RCL_CPOL-EUCT3528 | [https://ro.mouser.com/ProductDetail/Vishay-Sprague/TR3B106K025C1300?qs=jCGqFXxTmLdffnuDkXzk1g%3D%3D](https://ro.mouser.com/ProductDetail/Vishay-Sprague/TR3B106K025C1300?qs=jCGqFXxTmLdffnuDkXzk1g%3D%3D) |
-| SAMACSYS_PARTS_USB4110-GF-A | [https://componentsearchengine.com/part-view/USB4110-GF-A/GCT%20(GLOBAL%20CONNECTOR%20TECHNOLOGY)](https://componentsearchengine.com/part-view/USB4110-GF-A/GCT%20(GLOBAL%20CONNECTOR%20TECHNOLOGY)) |
-| SI1308EDL-T1-GE3 | [https://componentsearchengine.com/part-view/SI1308EDL-T1-GE3/Vishay](https://componentsearchengine.com/part-view/SI1308EDL-T1-GE3/Vishay) |
-| SJ | [https://grabcad.com/library/solder-jumpers-1](https://grabcad.com/library/solder-jumpers-1) |
-| USBLC6-2SC6Y | [https://www.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part/?ref=eda](https://www.snapeda.com/parts/USBLC6-2SC6Y/STMicroelectronics/view-part/?ref=eda) |
-| W25Q512JVEIQ | [https://www.snapeda.com/parts/W25Q512JVEIQ/Winbond+Electronics/view-part/?ref=eda](https://www.snapeda.com/parts/W25Q512JVEIQ/Winbond+Electronics/view-part/?ref=eda) |
+| 112A-TAAR-R03_ATTEND | [https://store.comet.bg/en/Catalogue/Product/43497/](https://store.comet.bg/en/Catalogue/Product/43497/) |
+| 744043680IND_4828-WE-TPC_WRE | [https://www.digikey.sg/en/models/1638515](https://www.digikey.sg/en/models/1638515) |
+| BD5229G-TR | [https://componentsearchengine.com/part-view/BD5229G-TR/ROHM%20Semiconductor](https://componentsearchengine.com/part-view/BD5229G-TR/ROHM%20Semiconductor) |
+| DS3231SN | [https://www.snapeda.com/parts/DS3231SN%23/Analog+Devices/view-part/?ref=eda](https://www.snapeda.com/parts/DS3231SN%23/Analog+Devices/view-part/?ref=eda) |
+| ESP32-C6-WROOM-1-N8 | [https://www.snapeda.com/parts/ESP32-C6-WROOM-1-N8/Espressif+Systems/view-part/?ref=eda](https://www.snapeda.com/parts/ESP32-C6-WROOM-1-N8/Espressif+Systems/view-part/?ref=eda) |
+| MCP73831 | [https://www.digikey.com/en/models/1874108](https://www.digikey.com/en/models/1874108) |
 | XC6220A331MR-G | [https://componentsearchengine.com/part-view/XC6220A331MR-G/Torex](https://componentsearchengine.com/part-view/XC6220A331MR-G/Torex) |
+| QWIIC_CONNECTORJS-1MM | [https://www.snapeda.com/parts/PRT-14417/SparkFun/view-part/](https://www.snapeda.com/parts/PRT-14417/SparkFun/view-part/) |
+| BUTTON_CUSYOMV1 | [https://industry.panasonic.com/global/en/downloads?tab=cad&small_g_cd=203&part_no=EVQPUJ02K&q=RVZRUFVKMDJLJTdDMTMlN0MyMDMlN0MzNDU5JTdDMSU3QyU3QyU3Q2ZhbHNl](https://industry.panasonic.com/global/en/downloads?tab=cad&small_g_cd=203&part_no=EVQPUJ02K&q=RVZRUFVKMDJLJTdDMTMlN0MyMDMlN0MzNDU5JTdDMSU3QyU3QyU3Q2ZhbHNl) |
+| ESP32_WROVER_EAGLE-LTSPICE_CC0402 | [https://componentsearchengine.com/part-view/CC0402MRX5R5BB106/YAGEO](https://componentsearchengine.com/part-view/CC0402MRX5R5BB106/YAGEO) |
+| CPH3225A | [https://www.snapeda.com/parts/CPH3225A/Seiko+Instruments/view-part/?ref=eda](https://www.snapeda.com/parts/CPH3225A/Seiko+Instruments/view-part/?ref=eda) |
+| ADAFRUIT_LEDCHIP-LED0603 | [https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603](https://www.snapeda.com/parts/KP-1608SURCK/Kingbright/view-part/?ref=search&t=LED%200603) |
+| ESP32_WROVER_BME680_BME680 | [https://www.snapeda.com/parts/BME680/Bosch/view-part/?welcome=home](https://www.snapeda.com/parts/BME680/Bosch/view-part/?welcome=home) |
+| ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH-DMG2305UX-7 | [https://componentsearchengine.com/part-view/DMG2305UX-7/Diodes%20Incorporated](https://componentsearchengine.com/part-view/DMG2305UX-7/Diodes%20Incorporated) |
 
 
 ---
