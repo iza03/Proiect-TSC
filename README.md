@@ -1,7 +1,7 @@
 # DeskAssistant v1.5 – README
 
 ## Diagrama bloc
-![Diagrama bloc](./Images/diagram.png)
+![Diagrama bloc](./Images/diagrama.png)
 
 ---
 
