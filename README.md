@@ -101,15 +101,6 @@
 
 **Consum total în mod activ:** aprox. **150–180 mA**
 
----
-
-## Alte detalii relevante
-
-- PCB-ul include **test pads** pentru debugging
-- **Selector de afișaj E-Paper** integrat în design
-- Circuit de drive pentru E-Paper separat
-- Proiectul include și **slot SD Card**, dar neutilizat în versiunea curentă
-
 ### Randări PCB și design fizic
 
 ![Randare PCB](./Images/pcbBoard.png)  
