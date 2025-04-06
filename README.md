@@ -103,6 +103,6 @@
 
 ### Randări PCB și design fizic
 
-![Randare PCB](./Images/pcbBoard.png)  
-![Vedere explodată](./Images/exploded.png)  
-![Ansamblu complet](./Images/openbookComplete.png)
+![Randare PCB](./Images/pcb.png)  
+![Vedere explodată](./Images/exploded_view.png)  
+![Ansamblu complet](./Images/complete.png)
